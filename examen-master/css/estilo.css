@@ -1,0 +1,18 @@
+header {
+background-image: url("http://i63.tinypic.com/5aiel4.jpg");
+background-repeat: no-repeat;
+}
+
+.container-page {
+background-image: url("http://i63.tinypic.com/2r73m1j.png");
+background-repeat: no-repeat;
+}
+
+table{
+background-color: rgba(0,0,0,0.3);
+color: #ffffff;
+}
+
+#export_table{
+  
+}
